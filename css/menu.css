@@ -1,5 +1,5 @@
 body {
-    background-color:white;
+    background-color:#fff1e6;
     color: #CE704A;
     font-family: Arial, Helvetica, sans-serif}
 
@@ -78,3 +78,17 @@ footer{
   padding-top: 4em;
   margin-top: em;
   margin-bottom: 2em;}
+
+.repeat_link a {
+  color: #2E4052;
+  text-decoration: none;
+  background-color: #fff1e6;}
+  
+.repeat_link a:hover {
+  background-color: #fff1e6;
+  color: #2E4052;}
+    
+    /* Add a color to the active/current link */
+.repeat_link {
+  background-color: #fff1e6;
+  color: #2E4052;}
