@@ -46,7 +46,6 @@ body {
 .choice{
   background-color: #CE704A;
 }
-
 .box {
   background-color: #D3D3D3;
   color: #464625;
@@ -78,6 +77,9 @@ footer{
   margin-bottom: 2em;}
 
 .repeat_link a {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  font-size: 23px;
   color: #2E4052;
   text-decoration: none;
   background-color: #fff1e6;}

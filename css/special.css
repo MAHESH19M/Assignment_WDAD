@@ -9,16 +9,18 @@ body {
   color: #929F5D;}
 
 #subtitle {
-  margin-top: 4em;
-  margin-left: 11em;
-  color:#464625;}
+  text-align: center;
+  font-size: 40px;
+  margin-top: 2em;
+  font-weight: bolder;
+  color:#EE6055;}
 
 .signup{
-    background-color: #EACC76;
+    background-color: #2E4052;
     color: #CE704A;
     text-align: center;
     width: 70%;
-    margin-top: 5em;
+    margin-top: 7em;
     padding: 1em;
     border-radius: 2em;
     margin-right: auto;
@@ -121,6 +123,9 @@ footer{
     margin-bottom: 2em;}
 
 .repeat_link a {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  font-size: 23px;
   color: #2E4052;
   text-decoration: none;
   background-color: #fff1e6;}

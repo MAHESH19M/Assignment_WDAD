@@ -9,6 +9,13 @@ body {
   margin-top: 4em;
   color: #CE704A;}
 
+.logo {
+  width: 400px;
+  margin-top: 4em;
+ margin-left: 2em;
+
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;}
+
 #subtitle {
   margin-top: 4em;
   margin-left: 11em;
@@ -34,7 +41,7 @@ body {
   float: right;
   color: black;
   text-align: center;
-  padding: 1.1em 4em;
+  padding: 1em 4em;
   text-decoration: none;
   font-size: 17px;}
   
@@ -105,6 +112,9 @@ footer{
   margin-bottom: 2em;}
 
 .repeat_link a {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  font-size: 23px;
   color: #2E4052;
   text-decoration: none;
   background-color: #fff1e6;
